@@ -9,4 +9,4 @@ This folder contains subsamples of Illumina's bam files from their public datase
 This folder contains the output from the Cromwell analysis. The output was put into tsv files and used for comparisons between masked and unmasked data to ensure no data was lost in the process. The bar plot to visually see any differences is in the jupyter notebook in this folder.
 
 ## PCA
-Contains the python script for running PCA along with the necessary tsv files that need to be imported to retrieve the metrics.
+Contains the python script for running PCA along with the necessary tsv files that need to be imported to retrieve the metrics. Naming convention was changed to fit that closer to my internship so the code ran smoothly. 
